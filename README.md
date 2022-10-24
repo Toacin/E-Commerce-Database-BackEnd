@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1gbeCyxIo29UzKs2C5hv7Wm1Op9yV1Iu3/view
 ## Screenshot
 
 ### Sample View of Fetch Call via Insomnia
-![Sample Interaction](./assets/images/Screenshot.JPG)
+![Sample Fetch](./assets/Capture.JPG)
 
 ---
 
