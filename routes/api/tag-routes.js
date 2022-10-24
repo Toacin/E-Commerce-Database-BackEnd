@@ -20,6 +20,10 @@ router.get('/:id', async (req, res) => {
     include: [{ model: Product }]
   });
 
+  if (!data) {
+    return res.status(404).json("Invalid Field");
+  }
+
   res.status(200).json(data);
 });
 
